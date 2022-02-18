@@ -1,0 +1,38 @@
+#first_head {
+	color: #544545;
+	size: 8px;
+	text-align: center;
+	margin-top: -100px;
+}
+
+#logo {
+	margin-left: 34%;
+}
+
+#welcome {
+	text-align: center;
+	background-color: #4dff4d;
+	writing-mode: horizontal-tb;
+	text-orientation: upright;
+	margin: 50px 550px 50px;
+}
+
+.menu_bar {
+	list-style-type: none;
+	border: 3px;
+	display: block;
+	margin-left: 100px;
+	margin-right: 1300px;
+	background-color: black;
+	padding: 2% 5% 1% 1%;
+
+}
+.list {
+	height: 40px;
+	width: 10px;
+}
+
+.articles {
+	font-size: 20px;
+	margin: 30px;
+}
